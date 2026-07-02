@@ -16,7 +16,7 @@ This repository contains the notebooks and input data used to extend the interme
 
 The workflow combines:
 
-- analytical intermediate-asymptotics solutions of the pair Smoluchowski equation,
+- analytical intermediate-asymptotics solutions of the pair Smoluchowski equation with shear flow,
 - construction of an effective potential of mean force,
 - Ornstein–Zernike integral equation,
 - Percus–Yevick (PY),
@@ -35,7 +35,7 @@ of colloidal suspensions under shear flow.
 ## Computational workflow
 
 ```
-Intermediate-asymptotics solution
+Intermediate-asymptotics solution (two-body)
             │
             ▼
 Angular averaging
