@@ -1,2 +1,101 @@
-# High-Density-Colloids-under-Shear
-Integral-equation theory notebooks for pair correlation functions and structure factors of sheared colloidal suspensions
+# High-Density Colloids under Shear: Integral-Equation Theory
+
+Python, Jupyter and Mathematica implementation accompanying
+
+**L. Banetta, F. Leone, C. Anzivino, M. S. Murillo and A. Zaccone**
+
+*Microscopic theory for the pair correlation function of liquidlike colloidal suspensions under shear flow*
+
+Physical Review E **106**, 044610 (2022)
+
+---
+
+## Overview
+
+This repository contains the notebooks and input data used to extend the intermediate-asymptotics theory of sheared colloidal suspensions to finite particle concentrations using liquid-state integral equation theory.
+
+The workflow combines:
+
+- analytical intermediate-asymptotics solutions of the pair Smoluchowski equation,
+- construction of an effective potential of mean force,
+- Ornstein–Zernike integral equation,
+- Percus–Yevick (PY),
+- Hypernetted Chain (HNC),
+- Modified Hypernetted Chain (MHNC)
+
+to compute
+
+- pair correlation functions \(g(r)\),
+- static structure factors \(S(k)\)
+
+of colloidal suspensions under shear flow.
+
+---
+
+## Computational workflow
+
+```
+Intermediate-asymptotics solution
+            │
+            ▼
+Angular averaging
+            │
+            ▼
+Interpolation onto uniform grid
+            │
+            ▼
+Effective potential
+            │
+            ▼
+Ornstein–Zernike equation
+            │
+            ▼
+PY / HNC / MHNC closures
+            │
+            ▼
+g(r) and S(k)
+```
+
+---
+
+## Repository structure
+
+```
+notebooks/
+```
+
+Jupyter and Mathematica notebooks implementing the theoretical workflow.
+
+```
+data/
+```
+
+Input data generated from the intermediate-asymptotics calculations.
+
+```
+papers/
+```
+
+Associated publication.
+
+---
+
+## Companion repository
+
+The intermediate-asymptotics MATLAB implementation is available in the companion repository
+
+**Colloidal-Microstructure-under-Shear**
+
+which generates the dilute-regime pair correlation functions used here as input.
+
+---
+
+# Citation
+
+**If you use this code in academic work, please cite**
+
+L. Banetta, F. Leone, C. Anzivino, M. S. Murillo and A. Zaccone,
+
+*Microscopic theory for the pair correlation function of liquidlike colloidal suspensions under shear flow*,
+
+Physical Review E **106**, 044610 (2022).
