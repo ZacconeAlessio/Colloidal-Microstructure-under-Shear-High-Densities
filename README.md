@@ -1,4 +1,3 @@
-![GitHub](https://img.shields.io/badge/MATLAB-Mathematica-Jupyter-blue)
 # High-Density Colloids under Shear: Integral-Equation Theory
 
 Python, Jupyter and Mathematica implementation accompanying
