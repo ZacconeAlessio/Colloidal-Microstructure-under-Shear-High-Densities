@@ -32,6 +32,12 @@ of colloidal suspensions under shear flow.
 
 ---
 
+## Computational workflow
+
+![Computational workflow](results/figures/workflow.png)
+
+---
+
 ## Representative result
 
 Structure factor of sheared hard-sphere colloidal suspensions predicted by the integral-equation theory. Increasing Péclet number enhances long-wavelength density fluctuations and modifies the main structural peak.
