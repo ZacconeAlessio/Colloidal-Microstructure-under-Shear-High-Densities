@@ -175,3 +175,5 @@ L. Banetta, F. Leone, C. Anzivino, M. S. Murillo and A. Zaccone
 [*Microscopic theory for the pair correlation function of liquidlike colloidal suspensions under shear flow*](https://doi.org/10.1103/PhysRevE.106.044610)
 
 *Physical Review E* **106**, 044610 (2022)
+
+A preprint of the article is available in the [`papers/`](papers/) directory of this repository.
