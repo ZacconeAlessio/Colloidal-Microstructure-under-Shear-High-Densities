@@ -2,11 +2,11 @@
 
 Python, Jupyter and Mathematica implementation accompanying
 
-**L. Banetta, F. Leone, C. Anzivino, M. S. Murillo and A. Zaccone**
+L. Banetta, F. Leone, C. Anzivino, M. S. Murillo and A. Zaccone
 
-*Microscopic theory for the pair correlation function of liquidlike colloidal suspensions under shear flow*
+[*Microscopic theory for the pair correlation function of liquidlike colloidal suspensions under shear flow*](https://doi.org/10.1103/PhysRevE.106.044610)
 
-Physical Review E **106**, 044610 (2022)
+*Physical Review E* **106**, 044610 (2022)
 
 ---
 
@@ -168,8 +168,8 @@ The repository is therefore intended both as a companion to the published articl
 
 **If you use this code in academic work, please cite**
 
-L. Banetta, F. Leone, C. Anzivino, M. S. Murillo and A. Zaccone,
+L. Banetta, F. Leone, C. Anzivino, M. S. Murillo and A. Zaccone
 
-*Microscopic theory for the pair correlation function of liquidlike colloidal suspensions under shear flow*,
+[*Microscopic theory for the pair correlation function of liquidlike colloidal suspensions under shear flow*](https://doi.org/10.1103/PhysRevE.106.044610)
 
-Physical Review E **106**, 044610 (2022).
+*Physical Review E* **106**, 044610 (2022)
