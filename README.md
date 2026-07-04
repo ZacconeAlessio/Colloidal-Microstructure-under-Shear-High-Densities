@@ -8,6 +8,8 @@ L. Banetta, F. Leone, C. Anzivino, M. S. Murillo and A. Zaccone
 
 *Physical Review E* **106**, 044610 (2022)
 
+A preprint of the article is available in the [`papers/`](papers/) directory of this repository.
+
 ---
 
 ## Overview
