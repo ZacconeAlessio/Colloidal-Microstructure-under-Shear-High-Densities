@@ -160,9 +160,9 @@ This repository contains the notebooks, analytical derivations, and representati
 > *Microscopic theory for the pair correlation function of liquidlike colloidal suspensions under shear flow*,
 > **Physical Review E** 106, 044610 (2022).
 
-Most of the computational workflow can be reproduced directly from the material provided here. However, a small number of intermediate data files generated during the original research workflow were not preserved in the archived project. Consequently, some notebooks may require regeneration of intermediate inputs before they can be executed completely from start to finish.
+The repository contains the notebooks, analytical derivations and input data required to reproduce the computational workflow presented in the accompanying publication.
 
-The repository is therefore intended both as a companion to the published article and as a reference implementation of the integral-equation methodology.
+The notebooks are intended to be executed in the order described in the main README.
 
 ---
 
