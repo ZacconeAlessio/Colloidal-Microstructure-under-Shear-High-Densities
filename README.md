@@ -101,7 +101,7 @@ Associated publication.
 Clone the repository:
 
 ```bash
-git clone https://github.com/ZacconeAlessio/High-Density-Colloids-under-Shear.git
+git clone https://github.com/ZacconeAlessio/Colloidal-Microstructure-under-Shear-High-Densities.git
 ```
 
 Install the required Python packages:
